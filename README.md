@@ -16,11 +16,11 @@ Copy the folder `smarty` in your working directory.
 
 The directory structure should be as follows:
 
-my-folder (your working directory)
+	my-folder (your working directory)
 
-	-- classes (this contains class files)
+		-- classes (this contains class files)
 
-	-- smarty (this is the Smarty library files directory)
+		-- smarty (this is the Smarty library files directory)
 
-	-- smarty_temp
+		-- smarty_temp
 
