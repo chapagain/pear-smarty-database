@@ -8,6 +8,8 @@ SQL query to create database and tables are present in **database.sql** file.
 
 #### Note on Smarty
 
+Smarty library files are not included here.
+
 You need to download Smarty library files from http://www.smarty.net/download
 
 Extract the file and rename the extracted folder as `smarty`
